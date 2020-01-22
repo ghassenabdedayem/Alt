@@ -1,0 +1,2 @@
+# AltCoins
+Projet académique
