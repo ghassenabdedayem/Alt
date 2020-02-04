@@ -1,0 +1,4 @@
+IBB --> iShares Nasdaq Biotechnology ETF
+ICE --> The ICE U.S. Dollar Index (USDX) futures contract is a leading benchmark for the international value of the US dollar and the world's most widely-recognized traded currency index.
+IEF --> iShares 7-10 Year Treasury Bond ETF. The iShares 7-10 Year Treasury Bond ETF (IEF) seeks to track the investment results of an index composed of U.S. Treasury bonds with remaining maturities between seven and ten years.
+GPS --> The GAP Inc. clothing company ? (Not sure)
