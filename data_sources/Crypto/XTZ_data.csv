@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+XTZ_Currency;XTZ_Date;XTZ_Open;XTZ_High;XTZ_Low;XTZ_Close;XTZ_Volume;XTZ_Market_Cap
 tezos;Dec 04, 2019;1.29;1.32;1.25;1.25;46,048,752;824,588,509
 tezos;Dec 03, 2019;1.24;1.32;1.21;1.29;41,462,224;853,213,342
 tezos;Dec 02, 2019;1.25;1.26;1.20;1.24;27,574,097;817,872,179
