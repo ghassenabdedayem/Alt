@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+EOS_Currency;EOS_Date;EOS_Open;EOS_High;EOS_Low;EOS_Close;EOS_Volume;EOS_Market_Cap
 eos;Dec 04, 2019;2.70;2.74;2.60;2.65;1,991,656,646;2,497,719,668
 eos;Dec 03, 2019;2.69;2.74;2.65;2.70;1,391,933,885;2,549,066,942
 eos;Dec 02, 2019;2.78;2.80;2.66;2.69;1,641,895,350;2,531,453,856
