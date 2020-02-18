@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+LTC_Currency;LTC_Date;LTC_Open;LTC_High;LTC_Low;LTC_Close;LTC_Volume;LTC_Market_Cap
 litecoin;Dec 04, 2019;45.40;46.54;44.58;45.19;2,951,880,019;2,882,011,362
 litecoin;Dec 03, 2019;45.78;46.62;44.76;45.38;2,557,212,174;2,893,726,010
 litecoin;Dec 02, 2019;47.65;47.81;45.32;45.82;2,680,452,035;2,921,144,389
