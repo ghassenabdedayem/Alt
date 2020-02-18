@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+BTC_Currency;BTC_Date;BTC_Open;BTC_High;BTC_Low;BTC_Close;BTC_Volume;BTC_Market Cap
 bitcoin;Dec 04, 2019;7,320.13;7,539.78;7,170.92;7,252.03;21,664,240,918;131,143,073,943
 bitcoin;Dec 03, 2019;7,323.98;7,418.86;7,229.36;7,320.15;14,797,485,769;132,359,942,301
 bitcoin;Dec 02, 2019;7,424.04;7,474.82;7,233.40;7,321.99;17,082,040,706;132,378,982,377
