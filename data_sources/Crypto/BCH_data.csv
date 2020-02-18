@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+BCH_Currency;BCH_Date;BCH_Open;BCH_High;BCH_Low;BCH_Close;BCH_Volume;BCH_Market_Cap
 bitcoin-cash;Dec 04, 2019;212.68;216.60;205.89;209.29;1,441,054,845;3,798,514,529
 bitcoin-cash;Dec 03, 2019;215.50;217.16;211.62;212.86;1,072,206,668;3,862,794,370
 bitcoin-cash;Dec 02, 2019;216.38;218.92;212.36;215.66;1,164,376,888;3,913,199,174
