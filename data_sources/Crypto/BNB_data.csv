@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+BNB_Currency;BNB_Date;BNB_Open;BNB_High;BNB_Low;BNB_Close;BNB_Volume;BNB_Market_Cap
 binance-coin;Dec 04, 2019;15.35;15.69;15.01;15.28;237,605,471;2,376,597,490
 binance-coin;Dec 03, 2019;15.19;15.55;15.05;15.31;219,927,266;2,381,198,047
 binance-coin;Dec 02, 2019;15.51;15.71;15.15;15.19;200,809,249;2,362,891,697
