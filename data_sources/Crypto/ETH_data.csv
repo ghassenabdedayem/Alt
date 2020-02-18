@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+ETH_Currency;ETH_Date;ETH_Open;ETH_High;ETH_Low;ETH_Close;ETH_Volume;ETH_Market Cap
 ethereum;Dec 04, 2019;147.92;150.68;145.00;146.75;7,865,937,094;15,966,157,442
 ethereum;Dec 03, 2019;149.06;150.31;146.00;147.96;6,204,379,850;16,095,928,402
 ethereum;Dec 02, 2019;151.18;152.12;147.61;149.06;6,670,561,362;16,214,125,032
