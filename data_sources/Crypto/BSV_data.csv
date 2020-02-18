@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+BSV_Currency;BSV_Date;BSV_Open;BSV_High;BSV_Low;BSV_Close;BSV_Volume;BSV_Market_Cap
 bitcoin-sv;Dec 04, 2019;96.00;100.91;94.51;95.44;492,295,285;1,724,375,560
 bitcoin-sv;Dec 03, 2019;100.52;101.91;95.64;95.96;408,257,124;1,733,908,192
 bitcoin-sv;Dec 02, 2019;104.37;104.89;99.64;100.52;393,387,957;1,816,323,733
