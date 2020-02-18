@@ -1,4 +1,4 @@
-Currency;Date;Open;High;Low;Close;Volume;Market Cap
+USDT_Currency;USDT_Date;USDT_Open;USDT_High;USDT_Low;USDT_Close;USDT_Volume;USDT_Market_Cap
 tether;Dec 04, 2019;1.00;1.02;0.981153;1.01;24,761,899,935;4,140,656,482
 tether;Dec 03, 2019;1.00;1.01;0.991071;1.00;16,691,088,420;4,120,924,295
 tether;Dec 02, 2019;1.00;1.02;0.991988;1.00;19,093,390,526;4,114,951,368
